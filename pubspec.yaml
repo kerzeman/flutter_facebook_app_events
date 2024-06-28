@@ -5,8 +5,7 @@ version: 0.19.2
 homepage: https://github.com/oddbit/flutter_facebook_app_events
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
-  flutter: '>=2.0.0'
+  sdk: '>=3.3.4 <4.0.0'
 
 dependencies:
   flutter:
